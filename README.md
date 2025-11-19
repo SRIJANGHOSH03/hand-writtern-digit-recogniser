@@ -36,7 +36,7 @@ Copy
 
 Edit
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/SRIJANGHOSH03/hand-writtern-digit-recogniser.git
 
 cd your-repo-name
 

@@ -91,24 +91,6 @@ Teach the system by entering a label (0-9) and clicking "Learn from Drawing."
 The drawn images and their labels are saved automatically in user_training_data.npz.
 
 
-
-File Structure
-
-bash
-
-Copy
-
-Edit
-
-/your-repo-name
-
-
-  ├── main.py               # Main application file
-  
-  ├── user_training_data.npz # (Auto-created) Saved drawings and labels
-  
-  └── README.md              # Project documentation
-  
 How Data Saving Works
 
 On each "Learn from Drawing" action:
